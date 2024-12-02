@@ -4,4 +4,4 @@ from app import app
 
 @app.route('/')
 def home():
-    return 'Hello, Flask!'
+    return 'Hello, Flasky boi!'
